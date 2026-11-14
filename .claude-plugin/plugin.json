@@ -1,0 +1,1 @@
+{ "name": "usagebar", "version": "0.1.0", "description": "Usage limits plus clickable model and effort buttons at the right of the prompt footer.", "types": "./types/index.d.ts" }

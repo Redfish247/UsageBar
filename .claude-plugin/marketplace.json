@@ -1,0 +1,5 @@
+{
+  "name": "usagebar",
+  "owner": { "name": "Redfish247" },
+  "plugins": [{ "name": "usagebar", "source": "./" }]
+}
